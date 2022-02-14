@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd185a59-cfd7-4909-8de8-020a1ef71b8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
@@ -66,7 +66,7 @@
       <workItem from="1644841184818" duration="140000" />
       <workItem from="1644841565387" duration="1879000" />
       <workItem from="1644844228835" duration="132000" />
-      <workItem from="1644844469853" duration="8404000" />
+      <workItem from="1644844469853" duration="8535000" />
     </task>
     <servers />
   </component>
